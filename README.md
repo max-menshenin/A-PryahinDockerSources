@@ -1,2 +1,2 @@
-# A.Pryahin DockerSources
+# A. Pryahin DockerSources
 *Исходники, которые скинул Пряхин по дочте по Docker*
